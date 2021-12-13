@@ -11,6 +11,7 @@ An Awesome List for [Log4Shell](https://security.snyk.io/vuln/SNYK-JAVA-ORGAPACH
 ## Videos
 
 ## Vulnerable Software
+- [BlueTeam Cheatsheet - Security Advisories / Bulletins](https://gist.github.com/SwitHak/b66db3a06c2955a9cb71a8718970c592)
 
 ## Blog Posts & Artciles
 
