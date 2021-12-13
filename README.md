@@ -6,7 +6,7 @@ An Awesome List for [Log4Shell](https://security.snyk.io/vuln/SNYK-JAVA-ORGAPACH
 - [Videos](https://github.com/snyk-labs/awesome-log4shell#videos)
 - [Vulnerable Software](https://github.com/snyk-labs/awesome-log4shell#vulnerable-software)
 - [Blog Posts & Articles](https://github.com/snyk-labs/awesome-log4shell#blog-posts--articles)
-- [Detection & Remediation]()
+- [Detection & Remediation](https://github.com/snyk-labs/awesome-log4shell#detection--remediation)
 - [License](https://github.com/snyk-labs/awesome-log4shell#license)
 
 ## Videos
