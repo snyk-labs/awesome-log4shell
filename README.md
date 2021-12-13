@@ -16,11 +16,11 @@ An Awesome List for [Log4Shell](https://security.snyk.io/vuln/SNYK-JAVA-ORGAPACH
 ## Videos
 
 ## Vulnerable Software
-- [BlueTeam Cheatsheet - Security Advisories / Bulletins](https://gist.github.com/SwitHak/b66db3a06c2955a9cb71a8718970c592)
+- [BlueTeam Cheatsheet](https://gist.github.com/SwitHak/b66db3a06c2955a9cb71a8718970c592) - Security Advisories and Bulletins
 
 ## Blog Posts & Artciles
 
 ## Detection & Remediation 
-[Curated Intelligence Trust Group](https://github.com/curated-intel/Log4Shell-IOCs)
+- [Curated Intelligence Trust Group](https://github.com/curated-intel/Log4Shell-IOCs) - Aggregated list of indicators of compromise feeds and threat reports
 
 ## License
