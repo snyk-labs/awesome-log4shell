@@ -6,6 +6,7 @@ An Awesome List for [Log4Shell](https://security.snyk.io/vuln/SNYK-JAVA-ORGAPACH
 - [Videos](https://github.com/snyk-labs/awesome-log4shell#videos)
 - [Vulnerable Software](https://github.com/snyk-labs/awesome-log4shell#vulnerable-software)
 - [Blog Posts & Articles](https://github.com/snyk-labs/awesome-log4shell#blog-posts--articles)
+- [Detection & Remediation]()
 - [License](https://github.com/snyk-labs/awesome-log4shell#license)
 
 ## Videos
@@ -14,5 +15,8 @@ An Awesome List for [Log4Shell](https://security.snyk.io/vuln/SNYK-JAVA-ORGAPACH
 - [BlueTeam Cheatsheet - Security Advisories / Bulletins](https://gist.github.com/SwitHak/b66db3a06c2955a9cb71a8718970c592)
 
 ## Blog Posts & Artciles
+
+## Detection & Remediation 
+[Curated Intelligence Trust Group](https://github.com/curated-intel/Log4Shell-IOCs)
 
 ## License
