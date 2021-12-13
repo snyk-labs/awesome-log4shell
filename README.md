@@ -3,15 +3,15 @@ An Awesome List for [Log4Shell](https://security.snyk.io/vuln/SNYK-JAVA-ORGAPACH
 
 
 **Table of Contents**
-- [Explination](https://github.com/snyk-labs/awesome-log4shell#explination)
+- [Explination](https://github.com/snyk-labs/awesome-log4shell#explinations)
 - [Videos](https://github.com/snyk-labs/awesome-log4shell#videos)
 - [Vulnerable Software](https://github.com/snyk-labs/awesome-log4shell#vulnerable-software)
 - [Blog Posts & Articles](https://github.com/snyk-labs/awesome-log4shell#blog-posts--articles)
 - [Detection & Remediation](https://github.com/snyk-labs/awesome-log4shell#detection--remediation)
 - [License](https://github.com/snyk-labs/awesome-log4shell#license)
 
-## Explination
-
+## Explinations
+[Snyk Blog](https://snyk.io/blog/log4j-rce-log4shell-vulnerability-cve-2021-4428/) - Java Champion Brian Vermeer's in depth explination of the Log4Shell vuln.
 
 ## Videos
 
