@@ -11,7 +11,7 @@ An Awesome List for [Log4Shell](https://security.snyk.io/vuln/SNYK-JAVA-ORGAPACH
 
 ## Explinations, Blogs, and Articles
 - [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228) - Official CVE page from MITRE
-- [Snyk Blog](https://snyk.io/blog/log4j-rce-log4shell-vulnerability-cve-2021-4428/) - Java Champion Brian Vermeer's in depth explination of the Log4Shell vuln.
+- [Snyk Blog Writeup](https://snyk.io/blog/log4j-rce-log4shell-vulnerability-cve-2021-4428/) - Java Champion Brian Vermeer's in depth explination of the Log4Shell vuln.
 - [SANS](https://isc.sans.edu/diary/rss/28120) - Initiall analysis and [follow up](https://isc.sans.edu/diary/rss/28122)
 - [Fastly Blog](https://www.fastly.com/blog/digging-deeper-into-log4shell-0day-rce-exploit-found-in-log4j) - Impact, how it works, and timeline.
 - [Luna Sec](https://www.lunasec.io/docs/blog/log4j-zero-d) - Good tips for detection and remediation
@@ -24,6 +24,7 @@ An Awesome List for [Log4Shell](https://security.snyk.io/vuln/SNYK-JAVA-ORGAPACH
 - [CVE-2021-44228 - Log4j - MINECRAFT VULNERABLE! (and SO MUCH MORE)](https://www.youtube.com/watch?v=7qoPDq41xhQ) - John Hammond, Cybersecurity Researcher @HuntressLabs
 
 ## Detection & Remediation 
+- [Snyk Detection and Remediation](https://snyk.io/blog/find-fix-log4shell-quickly-snyk/?cta=html-button-click&loc=page-body)
 - [Log4Shell Tester from Trendmicro](https://log4j-tester.trendmicro.com/) - Tool to determine vulnerability
 - [Curated Intelligence Trust Group](https://github.com/curated-intel/Log4Shell-IOCs) - Aggregated list of indicators of compromise feeds and threat reports
 - [BlueTeam Cheatsheet](https://gist.github.com/SwitHak/b66db3a06c2955a9cb71a8718970c592) - Security Advisories and Bulletins
