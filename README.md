@@ -11,6 +11,7 @@ An Awesome List for [Log4Shell](https://security.snyk.io/vuln/SNYK-JAVA-ORGAPACH
 
 ## Explinations, Blogs, and Articles
 - [Snyk Blog](https://snyk.io/blog/log4j-rce-log4shell-vulnerability-cve-2021-4428/) - Java Champion Brian Vermeer's in depth explination of the Log4Shell vuln.
+- [SANS](https://isc.sans.edu/diary/rss/28120) - Initiall analysis and [follow up](https://isc.sans.edu/diary/rss/28122)
 - [Fastly Blog](https://www.fastly.com/blog/digging-deeper-into-log4shell-0day-rce-exploit-found-in-log4j) - Impact, how it works, and timeline.
 - [Luna Sec](https://www.lunasec.io/docs/blog/log4j-zero-d) - Good tips for detection and remediation
 - [Tech Solvency](https://www.techsolvency.com/story-so-far/cve-2021-44228-log4j-log4shell/) - List of affected vendors and writeups
