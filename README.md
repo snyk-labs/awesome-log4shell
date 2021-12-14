@@ -3,15 +3,15 @@ An Awesome List for [Log4Shell](https://security.snyk.io/vuln/SNYK-JAVA-ORGAPACH
 
 
 **Table of Contents**
-- [Explanation](https://github.com/snyk-labs/awesome-log4shell#explinations-blogs-and-articles)
+- [Explanation](https://github.com/snyk-labs/awesome-log4shell#explanation-blogs-and-articles)
 - [Videos](https://github.com/snyk-labs/awesome-log4shell#videos)
 - [Vulnerable Software](https://github.com/snyk-labs/awesome-log4shell#vulnerable-software)
 - [Detection & Remediation](https://github.com/snyk-labs/awesome-log4shell#detection--remediation)
 - [Twitter Discussions](https://github.com/snyk-labs/awesome-log4shell#twitter-discussions)
 
-## Explinations, Blogs, and Articles
+## Explanation, Blogs, and Articles
 - [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228) - Official CVE page from MITRE
-- [Snyk Blog Writeup](https://snyk.io/blog/log4j-rce-log4shell-vulnerability-cve-2021-4428/) - Java Champion Brian Vermeer's in depth explination of the Log4Shell vuln.
+- [Snyk Blog Writeup](https://snyk.io/blog/log4j-rce-log4shell-vulnerability-cve-2021-4428/) - Java Champion Brian Vermeer's in depth explanation of the Log4Shell vuln.
 - [SANS](https://isc.sans.edu/diary/rss/28120) - Initiall analysis and [follow up](https://isc.sans.edu/diary/rss/28122)
 - [Fastly Blog](https://www.fastly.com/blog/digging-deeper-into-log4shell-0day-rce-exploit-found-in-log4j) - Impact, how it works, and timeline.
 - [Luna Sec](https://www.lunasec.io/docs/blog/log4j-zero-d) - Good tips for detection and remediation
