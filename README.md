@@ -25,7 +25,7 @@ An Awesome List for [Log4Shell](https://security.snyk.io/vuln/SNYK-JAVA-ORGAPACH
 - [Curated Intelligence Trust Group](https://github.com/curated-intel/Log4Shell-IOCs) - Aggregated list of indicators of compromise feeds and threat reports
 - [BlueTeam Cheatsheet](https://gist.github.com/SwitHak/b66db3a06c2955a9cb71a8718970c592) - Security Advisories and Bulletins
 - [Community Sourced Log4J Attack Surface](https://github.com/YfryTchsGD/Log4jAttackSurface) - List of Log4j attack vectors in popular manufacturers' products
-- Good mitigation practices -  https://www.msspalert.com/cybersecurity-news/java-vulnerability-log4shell-zero-day-details-patches-and-updates/
+- [MSSP Alert](https://www.msspalert.com/cybersecurity-news/java-vulnerability-log4shell-zero-day-details-patches-and-updates/) - Good mitigation practices
 
 ## Twitter discussions
 https://twitter.com/GossiTheDog/status/1470056396968374273?s=20
