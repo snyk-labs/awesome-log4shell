@@ -7,6 +7,7 @@ An Awesome List for [Log4Shell](https://security.snyk.io/vuln/SNYK-JAVA-ORGAPACH
 - [Videos](https://github.com/snyk-labs/awesome-log4shell#videos)
 - [Vulnerable Software](https://github.com/snyk-labs/awesome-log4shell#vulnerable-software)
 - [Detection & Remediation](https://github.com/snyk-labs/awesome-log4shell#detection--remediation)
+- [Twitter Discussions](https://github.com/snyk-labs/awesome-log4shell#twitter-discussions)
 - [License](https://github.com/snyk-labs/awesome-log4shell#license)
 
 ## Explinations, Blogs, and Articles
@@ -28,7 +29,7 @@ An Awesome List for [Log4Shell](https://security.snyk.io/vuln/SNYK-JAVA-ORGAPACH
 - [Community Sourced Log4J Attack Surface](https://github.com/YfryTchsGD/Log4jAttackSurface) - List of Log4j attack vectors in popular manufacturers' products
 - [MSSP Alert](https://www.msspalert.com/cybersecurity-news/java-vulnerability-log4shell-zero-day-details-patches-and-updates/) - Good mitigation practices
 
-## Twitter discussions
+## Twitter Discussions
 https://twitter.com/GossiTheDog/status/1470056396968374273?s=20
 
 
