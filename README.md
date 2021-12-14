@@ -16,7 +16,7 @@ An Awesome List for [Log4Shell](https://security.snyk.io/vuln/SNYK-JAVA-ORGAPACH
 - [Luna Sec](https://www.lunasec.io/docs/blog/log4j-zero-d) - Good tips for detection and remediation
 - [Tech Solvency](https://www.techsolvency.com/story-so-far/cve-2021-44228-log4j-log4shell/) - List of affected vendors and writeups
 - [Cado Security](https://www.cadosecurity.com/analysis-of-initial-in-the-wild-attacks-exploiting-log4shell-log4j-cve-2021-44228/) - Analysis of the attacks in the wild
-- Cloudflare https://blog.cloudflare.com/actual-cve-2021-44228-payloads-captured-in-the-wild/
+- [Cloudflare](https://blog.cloudflare.com/actual-cve-2021-44228-payloads-captured-in-the-wild/)
 
 ## Videos
 - [CVE-2021-44228 - Log4j - MINECRAFT VULNERABLE! (and SO MUCH MORE)](https://www.youtube.com/watch?v=7qoPDq41xhQ) - John Hammond, Cybersecurity Researcher @HuntressLabs
