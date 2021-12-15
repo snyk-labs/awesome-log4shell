@@ -42,3 +42,20 @@ An Awesome List of all Log4Shell memes
 ![moderninfras](https://dl.airtable.com/.attachments/1079f2fdaa378dfa750abdd28095b390/ab4c8815/20211213_141935.jpg
 )
 </details>
+
+<details>
+  <summary>The Shining</summary>
+  
+![theshining](https://pbs.twimg.com/media/FGc65vvXEAQdCj0.jpg)
+</details>
+
+
+<details>
+  <summary>system.out.print</summary>
+  
+![system.out.print](https://dl.airtable.com/.attachments/60c0ed8bc50050d1a1200ca72e98099c/5b732839/nuhDFFb.jpeg
+)
+</details>
+
+
+
