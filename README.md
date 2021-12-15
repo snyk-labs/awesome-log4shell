@@ -22,11 +22,15 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 - [Cado Security](https://www.cadosecurity.com/analysis-of-initial-in-the-wild-attacks-exploiting-log4shell-log4j-cve-2021-44228/) - Analysis of the attacks in the wild.
 - [Rapid7](https://www.rapid7.com/blog/post/2021/12/10/widespread-exploitation-of-critical-remote-code-execution-in-apache-log4j/) - Analysis, remediation, and detection.
 - [Cloudflare](https://blog.cloudflare.com/actual-cve-2021-44228-payloads-captured-in-the-wild/) - Cloudflare analysis of payloafds in the wild.
+- [Exploiting JNDI injections in Java](https://www.veracode.com/blog/research/exploiting-jndi-injections-java) - Previous article on JNDI injection exploits.
+- [SLF4J](http://slf4j.org/log4shell.html) - Comments from SLF4J project.
 
 ## Videos
 - [CVE-2021-44228 - Log4j - MINECRAFT VULNERABLE! (and SO MUCH MORE)](https://www.youtube.com/watch?v=7qoPDq41xhQ) - John Hammond, Cybersecurity Researcher @HuntressLabs.
 
 ## Vulnerable Software
+- [NCSC-NL repository](https://github.com/NCSC-NL/log4shell/tree/main/software) - National Cyber Security Centrum list of vulnerable/non-vulnerable software.
+- [Swithak](https://gist.github.com/SwitHak/b66db3a06c2955a9cb71a8718970c592) - List of vendor advisories related to log4shell.
 
 ## Detection & Remediation 
 - [Snyk Detection and Remediation](https://snyk.io/blog/find-fix-log4shell-quickly-snyk/) - Find and fix using Snyk.
@@ -36,6 +40,10 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 - [Community Sourced Log4J Attack Surface](https://github.com/YfryTchsGD/Log4jAttackSurface) - List of Log4j attack vectors in popular manufacturers' products.
 - [MSSP Alert](https://www.msspalert.com/cybersecurity-news/java-vulnerability-log4shell-zero-day-details-patches-and-updates/) - Good mitigation practices.
 - [log4shell-detector](https://github.com/Neo23x0/log4shell-detector) - Checks logs for exploitation attempts.
+- [Huntress vulnerability tester](https://log4shell.huntress.com/) - Web based tester.
+- [Container scanners](https://hackmd.io/e9RUrXSwRKyERCOBDo96RA) - How to detect using container scanners.
+- [Bash IOC scanner](https://github.com/Neo23x0/Fenrir) - Latest Fenrir supports checking for log4shell compromise and vulnerability.
+- [Burp Plugin detector](https://blog.silentsignal.eu/2021/12/12/our-new-tool-for-enumerating-hidden-log4shell-affected-hosts/) - Burp plugin to detect vulnerable hosts.
 
 ## Twitter Discussions
 - [Log4Shell spreadsheet](https://twitter.com/GossiTheDog/status/1470056396968374273?s=20) - Spreadsheet for defenders listing vendors and products.
