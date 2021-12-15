@@ -10,6 +10,7 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 - [Vulnerable Software](#vulnerable-software)
 - [Detection & Remediation](#detection--remediation)
 - [Twitter Discussions](#twitter-discussions)
+- [Contribute](#contribute)
 
 ## Explanation
 - [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228) - Official CVE page from MITRE.
