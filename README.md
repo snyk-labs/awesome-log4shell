@@ -29,13 +29,13 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 ## Vulnerable Software
 
 ## Detection & Remediation 
-- [Snyk Detection and Remediation](https://snyk.io/blog/find-fix-log4shell-quickly-snyk/?cta=html-button-click&loc=page-body)
-- [Log4Shell Tester from Trendmicro](https://log4j-tester.trendmicro.com/) - Tool to determine vulnerability
-- [Curated Intelligence Trust Group](https://github.com/curated-intel/Log4Shell-IOCs) - Aggregated list of indicators of compromise feeds and threat reports
-- [BlueTeam Cheatsheet](https://gist.github.com/SwitHak/b66db3a06c2955a9cb71a8718970c592) - Security Advisories and Bulletins
-- [Community Sourced Log4J Attack Surface](https://github.com/YfryTchsGD/Log4jAttackSurface) - List of Log4j attack vectors in popular manufacturers' products
-- [MSSP Alert](https://www.msspalert.com/cybersecurity-news/java-vulnerability-log4shell-zero-day-details-patches-and-updates/) - Good mitigation practices
-- [log4shell-detector](https://github.com/Neo23x0/log4shell-detector) - Checks logs for exploitation attempts
+- [Snyk Detection and Remediation](https://snyk.io/blog/find-fix-log4shell-quickly-snyk/) - Find and fix using Snyk.
+- [Log4Shell Tester from Trendmicro](https://log4j-tester.trendmicro.com/) - Tool to determine vulnerability.
+- [Curated Intelligence Trust Group](https://github.com/curated-intel/Log4Shell-IOCs) - Aggregated list of indicators of compromise feeds and threat reports.
+- [BlueTeam Cheatsheet](https://gist.github.com/SwitHak/b66db3a06c2955a9cb71a8718970c592) - Security Advisories and Bulletins.
+- [Community Sourced Log4J Attack Surface](https://github.com/YfryTchsGD/Log4jAttackSurface) - List of Log4j attack vectors in popular manufacturers' products.
+- [MSSP Alert](https://www.msspalert.com/cybersecurity-news/java-vulnerability-log4shell-zero-day-details-patches-and-updates/) - Good mitigation practices.
+- [log4shell-detector](https://github.com/Neo23x0/log4shell-detector) - Checks logs for exploitation attempts.
 
 ## Twitter Discussions
 - [Log4Shell spreadsheet](https://twitter.com/GossiTheDog/status/1470056396968374273?s=20) - Spreadsheet for defenders listing vendors and products.
