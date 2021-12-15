@@ -32,15 +32,14 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 ## Vulnerable Software
 - [NCSC-NL repository](https://github.com/NCSC-NL/log4shell/tree/main/software) - National Cyber Security Centrum list of vulnerable/non-vulnerable software.
 - [Swithak](https://gist.github.com/SwitHak/b66db3a06c2955a9cb71a8718970c592) - List of vendor advisories related to log4shell.
-- [Elastic](https://xeraa.net/blog/2021_mitigate-log4j2-log4shell-elasticsearch/) - Deep dive into which versions of Elastic are vulnerable and how to fix
-- [CISA](https://github.com/cisagov/log4j-affected-db) - CISA list of vulnerable software
+- [Elastic](https://xeraa.net/blog/2021_mitigate-log4j2-log4shell-elasticsearch/) - Deep dive into which versions of Elastic are vulnerable and how to fix.
+- [CISA](https://github.com/cisagov/log4j-affected-db) - CISA list of vulnerable software.
 
 ## Detection & Remediation 
 - [Snyk Detection and Remediation](https://snyk.io/blog/find-fix-log4shell-quickly-snyk/) - Find and fix using Snyk.
-- [Remediation cheat sheet](https://snyk.io/blog/log4shell-remediation-cheat-sheet/) - Remediation cheat sheet from Snyk
+- [Remediation cheat sheet](https://snyk.io/blog/log4shell-remediation-cheat-sheet/) - Remediation cheat sheet from Snyk.
 - [Log4Shell Tester from Trendmicro](https://log4j-tester.trendmicro.com/) - Tool to determine vulnerability.
 - [Curated Intelligence Trust Group](https://github.com/curated-intel/Log4Shell-IOCs) - Aggregated list of indicators of compromise feeds and threat reports.
-- [BlueTeam Cheatsheet](https://gist.github.com/SwitHak/b66db3a06c2955a9cb71a8718970c592) - Security Advisories and Bulletins.
 - [Community Sourced Log4J Attack Surface](https://github.com/YfryTchsGD/Log4jAttackSurface) - List of Log4j attack vectors in popular manufacturers' products.
 - [MSSP Alert](https://www.msspalert.com/cybersecurity-news/java-vulnerability-log4shell-zero-day-details-patches-and-updates/) - Good mitigation practices.
 - [log4shell-detector](https://github.com/Neo23x0/log4shell-detector) - Checks logs for exploitation attempts.
@@ -51,8 +50,7 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 - [Threatview IP list](https://github.com/Malwar3Ninja/Exploitation-of-Log4j2-CVE-2021-44228) - list of IP addresses currently exploiting log4shell.
 - [LizardLabs query tool](https://github.com/lizardlabs/Log-Parser-Lizard-Queries/blob/master/queries/log4shell/log4shell.search.MD5.sql) - Search for vulnerable jar files using MS Log Parser.
 - [Canary tokens](https://help.canary.tools/hc/en-gb/articles/4413465229201) - Use a canary token to test for vulnerable systems.
-- [Curated Intelligence](https://github.com/curated-intel/Log4Shell-IOCs) - List of IOC feeds and threat reports from Curated Intelligence.
-- [Exploit Strings data](https://github.com/rapid7/data/tree/master/log4shell/heisenberg) - JNDI exploit strings seen in the wild by Rapid7
+- [Exploit Strings data](https://github.com/rapid7/data/tree/master/log4shell/heisenberg) - JNDI exploit strings seen in the wild by Rapid7.
 
 ## Twitter Discussions
 - [Log4Shell spreadsheet](https://twitter.com/GossiTheDog/status/1470056396968374273?s=20) - Spreadsheet for defenders listing vendors and products.
