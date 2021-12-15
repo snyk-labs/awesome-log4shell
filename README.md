@@ -10,6 +10,7 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 - [Vulnerable Software](#vulnerable-software)
 - [Detection & Remediation](#detection--remediation)
 - [Twitter Discussions](#twitter-discussions)
+- [Examples & Proofs of Concept](#examples--proofs-of-concept)
 - [Contribute](#contribute)
 
 ## Explanation
@@ -54,6 +55,10 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 
 ## Twitter Discussions
 - [Log4Shell spreadsheet](https://twitter.com/GossiTheDog/status/1470056396968374273?s=20) - Spreadsheet for defenders listing vendors and products.
+
+## Examples & Proofs of Concept
+
+- [Log4Shell PoC](https://github.com/snyk-labs/log4shell-poc)
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
