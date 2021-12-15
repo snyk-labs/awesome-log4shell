@@ -37,6 +37,7 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 
 ## Detection & Remediation 
 - [Snyk Detection and Remediation](https://snyk.io/blog/find-fix-log4shell-quickly-snyk/) - Find and fix using Snyk.
+- [Remediation cheat sheet](https://snyk.io/blog/log4shell-remediation-cheat-sheet/) - Remediation cheat sheet from Snyk
 - [Log4Shell Tester from Trendmicro](https://log4j-tester.trendmicro.com/) - Tool to determine vulnerability.
 - [Curated Intelligence Trust Group](https://github.com/curated-intel/Log4Shell-IOCs) - Aggregated list of indicators of compromise feeds and threat reports.
 - [BlueTeam Cheatsheet](https://gist.github.com/SwitHak/b66db3a06c2955a9cb71a8718970c592) - Security Advisories and Bulletins.
