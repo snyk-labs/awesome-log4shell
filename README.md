@@ -11,7 +11,7 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 - [Detection & Remediation](#detection--remediation)
 - [Twitter Discussions](#twitter-discussions)
 
-### Explanation, Blogs, and Articles
+## Explanation, Blogs, and Articles
 - [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228) - Official CVE page from MITRE.
 - [Snyk Blog Writeup](https://snyk.io/blog/log4j-rce-log4shell-vulnerability-cve-2021-4428/) - Java Champion Brian Vermeer's in depth explanation of the Log4Shell vuln.
 - [SANS](https://isc.sans.edu/diary/rss/28120) - Initiall analysis and [follow up](https://isc.sans.edu/diary/rss/28122).
@@ -22,10 +22,10 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 - [Rapid7](https://www.rapid7.com/blog/post/2021/12/10/widespread-exploitation-of-critical-remote-code-execution-in-apache-log4j/) - Analysis, remediation, and detection.
 - [Cloudflare](https://blog.cloudflare.com/actual-cve-2021-44228-payloads-captured-in-the-wild/) - Cloudflare analysis of payloafds in the wild.
 
-### Videos
+## Videos
 - [CVE-2021-44228 - Log4j - MINECRAFT VULNERABLE! (and SO MUCH MORE)](https://www.youtube.com/watch?v=7qoPDq41xhQ) - John Hammond, Cybersecurity Researcher @HuntressLabs.
 
-### Detection & Remediation 
+## Detection & Remediation 
 - [Snyk Detection and Remediation](https://snyk.io/blog/find-fix-log4shell-quickly-snyk/?cta=html-button-click&loc=page-body) - Find and fix it using Snyk.
 - [Log4Shell Tester from Trendmicro](https://log4j-tester.trendmicro.com/) - Tool to determine vulnerability.
 - [Curated Intelligence Trust Group](https://github.com/curated-intel/Log4Shell-IOCs) - Aggregated list of indicators of compromise feeds and threat reports.
@@ -33,6 +33,14 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 - [Community Sourced Log4J Attack Surface](https://github.com/YfryTchsGD/Log4jAttackSurface) - List of Log4j attack vectors in popular manufacturers' products.
 - [MSSP Alert](https://www.msspalert.com/cybersecurity-news/java-vulnerability-log4shell-zero-day-details-patches-and-updates/) - Good mitigation practices.
 
-### Twitter Discussions
+## Twitter Discussions
 - [Log4Shell spreadsheet](https://twitter.com/GossiTheDog/status/1470056396968374273?s=20) - Spreadsheet for defenders listing vendors and products.
 
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
