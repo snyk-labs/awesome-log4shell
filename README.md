@@ -33,6 +33,7 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 - [NCSC-NL repository](https://github.com/NCSC-NL/log4shell/tree/main/software) - National Cyber Security Centrum list of vulnerable/non-vulnerable software.
 - [Swithak](https://gist.github.com/SwitHak/b66db3a06c2955a9cb71a8718970c592) - List of vendor advisories related to log4shell.
 - [Elastic](https://xeraa.net/blog/2021_mitigate-log4j2-log4shell-elasticsearch/) - Deep dive into which versions of Elastic are vulnerable and how to fix
+- [CISA](https://github.com/cisagov/log4j-affected-db) - CISA list of vulnerable software
 
 ## Detection & Remediation 
 - [Snyk Detection and Remediation](https://snyk.io/blog/find-fix-log4shell-quickly-snyk/) - Find and fix using Snyk.
