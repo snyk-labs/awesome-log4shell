@@ -1,5 +1,7 @@
 # Awesome Log4Shell
-An Awesome List for [Log4Shell](https://security.snyk.io/vuln/SNYK-JAVA-ORGAPACHELOGGINGLOG4J-2314720) ([CVE-2021-44228](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228)).
+![Awesome](https://awesome.re/badge.svg)
+
+A curated list of awesome links related to the [Log4Shell](https://security.snyk.io/vuln/SNYK-JAVA-ORGAPACHELOGGINGLOG4J-2314720) vulnerability ([CVE-2021-44228](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228)).
 
 
 **Table of Contents**
