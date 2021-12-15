@@ -59,7 +59,7 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 
 ## Examples & Proofs of Concept
 
-- [Log4Shell PoC](https://github.com/snyk-labs/log4shell-poc)
+- [Log4Shell PoC](https://github.com/snyk-labs/log4shell-poc) - Full stack demo including Java LDAP and HTTP servers and vulnerable Java client.
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
