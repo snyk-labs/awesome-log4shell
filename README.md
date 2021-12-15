@@ -51,6 +51,7 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 - [LizardLabs query tool](https://github.com/lizardlabs/Log-Parser-Lizard-Queries/blob/master/queries/log4shell/log4shell.search.MD5.sql) - Search for vulnerable jar files using MS Log Parser.
 - [Canary tokens](https://help.canary.tools/hc/en-gb/articles/4413465229201) - Use a canary token to test for vulnerable systems.
 - [Curated Intelligence](https://github.com/curated-intel/Log4Shell-IOCs) - List of IOC feeds and threat reports from Curated Intelligence.
+- [Exploit Strings data](https://github.com/rapid7/data/tree/master/log4shell/heisenberg) - JNDI exploit strings seen in the wild by Rapid7
 
 ## Twitter Discussions
 - [Log4Shell spreadsheet](https://twitter.com/GossiTheDog/status/1470056396968374273?s=20) - Spreadsheet for defenders listing vendors and products.
