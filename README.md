@@ -11,6 +11,7 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 - [Detection & Remediation](#detection--remediation)
 - [Twitter Discussions](#twitter-discussions)
 - [Examples & Proofs of Concept](#examples--proofs-of-concept)
+- [Memes](#memes)
 - [Contribute](#contribute)
 
 ## Explanation
@@ -60,6 +61,9 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 ## Examples & Proofs of Concept
 
 - [Log4Shell PoC](https://github.com/snyk-labs/log4shell-poc) - Full stack demo including Java LDAP and HTTP servers and vulnerable Java client.
+
+## Memes
+- [Log4J memes](https://github.com/snyk-labs/awesome-log4shell/blob/main/Log4Jmemes.md) - Because we shouldn't take the fun out of the game. 
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
