@@ -49,6 +49,7 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 - [Threatview IP list](https://github.com/Malwar3Ninja/Exploitation-of-Log4j2-CVE-2021-44228) - list of IP addresses currently exploiting log4shell.
 - [LizardLabs query tool](https://github.com/lizardlabs/Log-Parser-Lizard-Queries/blob/master/queries/log4shell/log4shell.search.MD5.sql) - Search for vulnerable jar files using MS Log Parser.
 - [Canary tokens](https://help.canary.tools/hc/en-gb/articles/4413465229201) - Use a canary token to test for vulnerable systems.
+- [Curated Intelligence](https://github.com/curated-intel/Log4Shell-IOCs) - List of IOC feeds and threat reports from Curated Intelligence.
 
 ## Twitter Discussions
 - [Log4Shell spreadsheet](https://twitter.com/GossiTheDog/status/1470056396968374273?s=20) - Spreadsheet for defenders listing vendors and products.
