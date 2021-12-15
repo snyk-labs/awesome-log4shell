@@ -11,7 +11,7 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 - [Detection & Remediation](#detection--remediation)
 - [Twitter Discussions](#twitter-discussions)
 
-## Explanation, Blogs, and Articles
+## Explanation
 - [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228) - Official CVE page from MITRE.
 - [Snyk Blog Writeup](https://snyk.io/blog/log4j-rce-log4shell-vulnerability-cve-2021-4428/) - Java Champion Brian Vermeer's in depth explanation of the Log4Shell vuln.
 - [SANS](https://isc.sans.edu/diary/rss/28120) - Initiall analysis and [follow up](https://isc.sans.edu/diary/rss/28122).
@@ -24,6 +24,8 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 
 ## Videos
 - [CVE-2021-44228 - Log4j - MINECRAFT VULNERABLE! (and SO MUCH MORE)](https://www.youtube.com/watch?v=7qoPDq41xhQ) - John Hammond, Cybersecurity Researcher @HuntressLabs.
+
+## Vulnerable Software
 
 ## Detection & Remediation 
 - [Snyk Detection and Remediation](https://snyk.io/blog/find-fix-log4shell-quickly-snyk/?cta=html-button-click&loc=page-body) - Find and fix it using Snyk.
@@ -39,8 +41,3 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
