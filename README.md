@@ -1,4 +1,4 @@
-# Awesome Log4Shell [![Awesome](https://awesome.re/badge.svg)](https://github.com/snyk-labs/awesome-log4shell)
+# Awesome Log4Shell [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome links related to the [Log4Shell](https://security.snyk.io/vuln/SNYK-JAVA-ORGAPACHELOGGINGLOG4J-2314720) vulnerability.
 
