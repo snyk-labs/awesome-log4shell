@@ -3,9 +3,9 @@ An Awesome List of all Log4Shell memes
 
 
 <details>
-  <summary>Omer</summary>
+  <summary>Homer</summary>
   
-![Omer](https://preview.redd.it/ikmilayonk581.jpg?auto=webp&s=a9092a9ada97f1a6bad83339a5cd42d390539bc2)
+![Homer](https://preview.redd.it/ikmilayonk581.jpg?auto=webp&s=a9092a9ada97f1a6bad83339a5cd42d390539bc2)
 </details>
 
 
