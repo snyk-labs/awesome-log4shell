@@ -63,6 +63,7 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 - [AWS daemonset](https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent) - Daemonset from AWS to mitigate vulnerable instances in Kubernetes.
 - [Hotpatch tool](https://github.com/corretto/hotpatch-for-apache-log4j2) - JVM level hotpatch tool from AWS.
 - [Public hunt for WAF bypasses](https://coreruleset.org/20211216/public-hunt-for-log4j-log4shell-evasions-waf-bypasses/) - Public hunt for WAF bypasses.
+- [How Traefik Plugins Protect Your Apps Against the Log4j Vulnerability](https://traefik.io/blog/how-traefik-plugins-protect-your-apps-against-the-log4j-vulnerability/) - How Traefik Plugins Protect Your Apps Against the Log4j Vulnerability
 
 ## Twitter Discussions
 - [Log4Shell spreadsheet](https://twitter.com/GossiTheDog/status/1470056396968374273?s=20) - Spreadsheet for defenders listing vendors and products.
