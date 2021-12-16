@@ -72,3 +72,7 @@ An Awesome List of all Log4Shell memes
 ## Dedicated web pages 
 
 - [log4jmemes.com](https://log4jmemes.com/) 
+
+## Twitter Threads
+- [What happened to my cousin's friend in Trinidad](https://twitter.com/lcamtuf/status/1471334811646132230)
+- [I'm over it now. Moving on w/my life.](https://twitter.com/tinkersec/status/1471128734010945542?s=21)
