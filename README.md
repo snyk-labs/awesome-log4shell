@@ -42,6 +42,7 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 ## Detection & Remediation 
 - [Snyk Detection and Remediation](https://snyk.io/blog/find-fix-log4shell-quickly-snyk/) - Find and fix using Snyk.
 - [Remediation cheat sheet](https://snyk.io/blog/log4shell-remediation-cheat-sheet/) - Remediation cheat sheet from Snyk.
+- [OWASP Core Rule Set](https://coreruleset.org/20211216/public-hunt-for-log4j-log4shell-evasions-waf-bypasses/) - Detection and Bypass guidelines
 - [Log4Shell Tester from Trendmicro](https://log4j-tester.trendmicro.com/) - Tool to determine vulnerability.
 - [Exploiting and Mitigating CVE-2021-44228: Log4j Remote Code Execution (RCE) by Sysdig](https://sysdig.com/blog/exploit-detect-mitigate-log4j-cve/) - Mitigation steps and      explanation using Falco and Sysdig Secure.
 - [Curated Intelligence Trust Group](https://github.com/curated-intel/Log4Shell-IOCs) - Aggregated list of indicators of compromise feeds and threat reports.
