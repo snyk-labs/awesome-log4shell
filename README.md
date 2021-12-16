@@ -59,7 +59,7 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 - [Mitigate attacks using Nginx](https://www.infiniroot.com/blog/1155/using-nginx-lua-script-mitigate-log4shell-cve-2021-44228-vulnerability) - A simple and effective way to use Nginx (using a Lua block) to protect against attacks.
 - [OWASP Core Rule Set](https://coreruleset.org/20211213/crs-and-log4j-log4shell-cve-2021-44228/) - Modsecurity CRS rules.
 - [AWS daemonset](https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent) - Daemonset from AWS to mitigate vulnerable instances in Kubernetes.
-- [Hotpatch tool](https://github.com/corretto/hotpatch-for-apache-log4j2) - JVM level hotpatch tool from AWS
+- [Hotpatch tool](https://github.com/corretto/hotpatch-for-apache-log4j2) - JVM level hotpatch tool from AWS.
 
 ## Twitter Discussions
 - [Log4Shell spreadsheet](https://twitter.com/GossiTheDog/status/1470056396968374273?s=20) - Spreadsheet for defenders listing vendors and products.
