@@ -67,7 +67,7 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 ## Examples & Proofs of Concept
 
 - [Log4Shell PoC](https://github.com/snyk-labs/log4shell-poc) - Full stack demo including Java LDAP and HTTP servers and vulnerable Java client.
-- [Log4Shell vulnerable Java application](https://github.com/christophetd/log4shell-vulnerable-app) - Spring Boot web application vulnerable to Log4shell for easy reproductiono.
+- [Log4Shell vulnerable Java application](https://github.com/christophetd/log4shell-vulnerable-app) - Spring Boot web application vulnerable to Log4shell for easy reproduction.
 
 ## Memes
 - [Log4J memes](https://github.com/snyk-labs/awesome-log4shell/blob/main/Log4Jmemes.md) - Sometimes we still need a smile. 
