@@ -26,10 +26,12 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 - [Cloudflare](https://blog.cloudflare.com/actual-cve-2021-44228-payloads-captured-in-the-wild/) - Cloudflare analysis of payloafds in the wild.
 - [Exploiting JNDI injections in Java](https://www.veracode.com/blog/research/exploiting-jndi-injections-java) - Previous article on JNDI injection exploits.
 - [SLF4J](http://slf4j.org/log4shell.html) - Comments from SLF4J project.
+- [Understanding Log4Shell: vulnerability, attacks and mitigations](https://www.slideshare.net/BertJanSchrijver/understanding-log4shell-vulnerability-attacks-and-mitigations-250846006/) - Slide deck for webcast (see under [videos](#Videos)) by Roy van Rijn & Bert Jan Schrijver (OpenValue).
 
 ## Videos
 - [CVE-2021-44228 - Log4j - MINECRAFT VULNERABLE! (and SO MUCH MORE)](https://www.youtube.com/watch?v=7qoPDq41xhQ) - John Hammond, Cybersecurity Researcher @HuntressLabs.
 - [Blackhat2016 - JNDI manipulation to RCE Dream Land](https://www.youtube.com/watch?v=Y8a5nB-vy78) - Blackhat talk from 2016 describing the exploit path.
+- [Understanding Log4Shell: vulnerability, attacks and mitigations](https://www.youtube.com/watch?v=TX1SF2dhMc4) - Webcast by Roy van Rijn & Bert Jan Schrijver (OpenValue).
 
 ## Vulnerable Software
 - [NCSC-NL repository](https://github.com/NCSC-NL/log4shell/tree/main/software) - National Cyber Security Centrum list of vulnerable/non-vulnerable software.
