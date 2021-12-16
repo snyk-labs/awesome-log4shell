@@ -53,7 +53,13 @@ An Awesome List of all Log4Shell memes
 <details>
   <summary>system.out.print</summary>
   
-![system.out.print](https://dl.airtable.com/.attachments/60c0ed8bc50050d1a1200ca72e98099c/5b732839/nuhDFFb.jpeg
+![One String](https://dl.airtable.com/.attachments/60c0ed8bc50050d1a1200ca72e98099c/5b732839/nuhDFFb.jpeg)
+</details>
+
+<details>
+  <summary>One string to pwn them all</summary>
+  
+![system.out.print](https://pbs.twimg.com/media/FGSUoT-VkAE7e9R?format=jpg&name=small
 )
 </details>
 
