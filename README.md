@@ -65,7 +65,7 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 - [Log4Shell PoC](https://github.com/snyk-labs/log4shell-poc) - Full stack demo including Java LDAP and HTTP servers and vulnerable Java client.
 
 ## Memes
-- [Log4J memes](https://github.com/snyk-labs/awesome-log4shell/blob/main/Log4Jmemes.md) - Because we shouldn't take the fun out of the game. 
+- [Log4J memes](https://github.com/snyk-labs/awesome-log4shell/blob/main/Log4Jmemes.md) - Sometimes we still need a smile. 
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
