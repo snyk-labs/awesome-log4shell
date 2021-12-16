@@ -54,6 +54,7 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 - [Canary tokens](https://help.canary.tools/hc/en-gb/articles/4413465229201) - Use a canary token to test for vulnerable systems.
 - [Exploit Strings data](https://github.com/rapid7/data/tree/master/log4shell/heisenberg) - JNDI exploit strings seen in the wild by Rapid7.
 - [log4j-detector](https://github.com/mergebase/log4j-detector) - Detects vulnerable log4j versions on your file-system within any application.
+- [Mitigate attacks using Nginx](https://www.infiniroot.com/blog/1155/using-nginx-lua-script-mitigate-log4shell-cve-2021-44228-vulnerability) - A simple and effective way to use Nginx (using a Lua block) to protect against attacks.
 
 ## Twitter Discussions
 - [Log4Shell spreadsheet](https://twitter.com/GossiTheDog/status/1470056396968374273?s=20) - Spreadsheet for defenders listing vendors and products.
