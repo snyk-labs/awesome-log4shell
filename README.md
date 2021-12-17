@@ -74,6 +74,7 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 
 - [Log4Shell PoC](https://github.com/snyk-labs/log4shell-poc) - Full stack demo including Java LDAP and HTTP servers and vulnerable Java client.
 - [Log4Shell vulnerable Java application](https://github.com/christophetd/log4shell-vulnerable-app) - Spring Boot web application vulnerable to Log4shell for easy reproduction.
+- [Various Log4Shell PoC](https://attackerkb.com/topics/in9sPR2Bzt/cve-2021-44228-log4shell/rapid7-analysis) - Analysis of various products with curl-based proof of concepts. Includes Struts2, Solr, VSphere, Druid, James, and more.
 
 ## Memes
 - [Log4J memes](https://github.com/snyk-labs/awesome-log4shell/blob/main/memes.md) - Sometimes we still need a smile. 
