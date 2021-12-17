@@ -34,6 +34,7 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 - [CVE-2021-44228 - Log4j - MINECRAFT VULNERABLE! (and SO MUCH MORE)](https://www.youtube.com/watch?v=7qoPDq41xhQ) - John Hammond, Cybersecurity Researcher @HuntressLabs.
 - [Blackhat2016 - JNDI manipulation to RCE Dream Land](https://www.youtube.com/watch?v=Y8a5nB-vy78) - Blackhat talk from 2016 describing the exploit path.
 - [Understanding Log4Shell: vulnerability, attacks and mitigations](https://www.youtube.com/watch?v=TX1SF2dhMc4) - Webcast by Roy van Rijn & Bert Jan Schrijver (OpenValue).
+- [Log4Shell Deep Dive](https://www.youtube.com/watch?v=ZL9wq8XHqEY) - breakpoint your way through the JNDI and HTTP calls leading to an RCE.
 
 ## Vulnerable Software
 - [NCSC-NL repository](https://github.com/NCSC-NL/log4shell/tree/main/software) - National Cyber Security Centrum list of vulnerable/non-vulnerable software.
