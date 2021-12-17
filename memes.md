@@ -77,3 +77,5 @@ An Awesome List of all Log4Shell memes
 - [What happened to my cousin's friend in Trinidad](https://twitter.com/lcamtuf/status/1471334811646132230)
 - [I'm over it now. Moving on w/my life.](https://twitter.com/tinkersec/status/1471128734010945542?s=21)
 - [How you should pronounce it](https://twitter.com/HackingLZ/status/1471485171320999939)
+- [Herd immunity](https://twitter.com/rickhanlonii/status/1470074730279546895?s=21
+)
