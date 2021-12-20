@@ -35,6 +35,9 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 - [Blackhat2016 - JNDI manipulation to RCE Dream Land](https://www.youtube.com/watch?v=Y8a5nB-vy78) - Blackhat talk from 2016 describing the exploit path.
 - [Understanding Log4Shell: vulnerability, attacks and mitigations](https://www.youtube.com/watch?v=TX1SF2dhMc4) - Webcast by Roy van Rijn & Bert Jan Schrijver (OpenValue).
 - [Log4Shell Deep Dive](https://www.youtube.com/watch?v=ZL9wq8XHqEY) - breakpoint your way through the JNDI and HTTP calls leading to an RCE.
+- [Log4JShell Vulnerability Explained in Simple Terms](https://www.linkedin.com/posts/marknca_hugops-cybersecurity-log4j-ugcPost-6876931995008602113-q9oJ/)
+- [The Log4j vulnerability | The Backend Engineering Show](https://www.youtube.com/watch?v=77XnEaWNups) - Explanation of the Log4Shell vulnerability(CVE-2021-44228).
+- [Can we find Log4Shell with Java Fuzzing? 🔥 (CVE-2021-44228 - Log4j RCE)](https://www.youtube.com/watch?v=t7frgKkQ1J4) -  Finding the famous Java Log4Shell RCE (CVE-2021-44228) using fuzzing.
 
 ## Vulnerable Software
 - [NCSC-NL repository](https://github.com/NCSC-NL/log4shell/tree/main/software) - National Cyber Security Centrum list of vulnerable/non-vulnerable software.
@@ -69,6 +72,7 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 - [Public hunt for WAF bypasses](https://coreruleset.org/20211216/public-hunt-for-log4j-log4shell-evasions-waf-bypasses/) - Public hunt for WAF bypasses.
 - [log4j-resources](https://gitlab.com/gitlab-de/log4j-resources) - Resources and guides collected by GitLab's Developer Evangelism team.
 - [How Traefik Plugins Protect Your Apps Against the Log4j Vulnerability](https://traefik.io/blog/how-traefik-plugins-protect-your-apps-against-the-log4j-vulnerability/) - How Traefik Plugins Protect Your Apps Against the Log4j Vulnerability.
+- [Google Cloud recommendations for investigating and responding to the Apache “Log4j 2” vulnerability](https://cloud.google.com/blog/products/identity-security/recommendations-for-apache-log4j2-vulnerability) - Google Cloud recommendations for Detection and Remediation of the Log4Shell vulnerability.
 
 ## Twitter Discussions
 - [Log4Shell spreadsheet](https://twitter.com/GossiTheDog/status/1470056396968374273?s=20) - Spreadsheet for defenders listing vendors and products.
@@ -78,7 +82,8 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 - [Log4Shell PoC](https://github.com/snyk-labs/log4shell-poc) - Full stack demo including Java LDAP and HTTP servers and vulnerable Java client.
 - [Log4Shell vulnerable Java application](https://github.com/christophetd/log4shell-vulnerable-app) - Spring Boot web application vulnerable to Log4shell for easy reproduction.
 - [Various Log4Shell PoC](https://attackerkb.com/topics/in9sPR2Bzt/cve-2021-44228-log4shell/rapid7-analysis) - Analysis of various products with curl-based proof of concepts. Includes Struts2, Solr, VSphere, Druid, James, and more.
-- Gamifying Log4j Vulnerability (https://application.security/free-application-security-training/understanding-apache-log4j-vulnerability)
+- [Gamifying Log4j Vulnerability](https://application.security/free-application-security-training/understanding-apache-log4j-vulnerability) - Exploit Log4J in example code.
+- [CVE-2021-44228 log4j Exploitation in Action: RCE reverse shell on AWS cloud](https://www.youtube.com/watch?v=dguVlEpPFgg) - Log4Shell exploitation with RCE reverse shell on AWS Cloud.
 
 ## Memes
 - [Log4J memes](https://github.com/snyk-labs/awesome-log4shell/blob/main/memes.md) - Sometimes we still need a smile. 
