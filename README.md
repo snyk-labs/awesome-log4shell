@@ -80,7 +80,7 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 
 ## Examples & Proofs of Concept
 
-- [Log4Shell PoC](https://github.com/snyk-labs/log4shell-poc) - Full stack demo including Java LDAP and HTTP servers and vulnerable Java client.
+- [Log4Shell PoC](https://github.com/snyk-labs/java-goof) - Full stack demo including Java LDAP and HTTP servers and vulnerable Java client. **NOTE**: It's part of the larger `java-goof` repo. Look at the `log4shell-goof` module.
 - [Log4Shell vulnerable Java application](https://github.com/christophetd/log4shell-vulnerable-app) - Spring Boot web application vulnerable to Log4shell for easy reproduction.
 - [Various Log4Shell PoC](https://attackerkb.com/topics/in9sPR2Bzt/cve-2021-44228-log4shell/rapid7-analysis) - Analysis of various products with curl-based proof of concepts. Includes Struts2, Solr, VSphere, Druid, James, and more.
 - [Gamifying Log4j Vulnerability](https://application.security/free-application-security-training/understanding-apache-log4j-vulnerability) - Exploit Log4J in example code.
