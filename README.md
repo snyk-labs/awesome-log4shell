@@ -23,7 +23,7 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 - [Tech Solvency](https://www.techsolvency.com/story-so-far/cve-2021-44228-log4j-log4shell/) - List of affected vendors and writeups.
 - [Cado Security](https://www.cadosecurity.com/analysis-of-initial-in-the-wild-attacks-exploiting-log4shell-log4j-cve-2021-44228/) - Analysis of the attacks in the wild.
 - [Rapid7](https://www.rapid7.com/blog/post/2021/12/10/widespread-exploitation-of-critical-remote-code-execution-in-apache-log4j/) - Analysis, remediation, and detection.
-- [Cloudflare](https://blog.cloudflare.com/actual-cve-2021-44228-payloads-captured-in-the-wild/) - Cloudflare analysis of payloafds in the wild.
+- [Cloudflare](https://blog.cloudflare.com/actual-cve-2021-44228-payloads-captured-in-the-wild/) - Cloudflare analysis of payloads in the wild.
 - [Exploiting JNDI injections in Java](https://www.veracode.com/blog/research/exploiting-jndi-injections-java) - Previous article on JNDI injection exploits.
 - [SLF4J](http://slf4j.org/log4shell.html) - Comments from SLF4J project.
 - [Understanding Log4Shell: vulnerability, attacks and mitigations](https://www.slideshare.net/BertJanSchrijver/understanding-log4shell-vulnerability-attacks-and-mitigations-250846006/) - Slide deck for webcast (see under [videos](#Videos)) by Roy van Rijn & Bert Jan Schrijver (OpenValue).
