@@ -72,6 +72,7 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 
 ## Twitter Discussions
 - [Log4Shell spreadsheet](https://twitter.com/GossiTheDog/status/1470056396968374273?s=20) - Spreadsheet for defenders listing vendors and products.
+- Incredible discussion around Log4j - (https://twitter.com/kurtseifried/status/1469345530182455296)
 
 ## Examples & Proofs of Concept
 
