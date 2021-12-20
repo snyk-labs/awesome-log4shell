@@ -72,7 +72,7 @@ An Awesome List of all Log4Shell memes
 <details>
   <summary>are you two friends?</summary>
   
-![are you two friends? toaster](https://twitter.com/brunoborges/status/1472979617338179584?s=20)
+![are you two friends?](https://pbs.twimg.com/media/FHETJ5BVIAchEJi?format=jpg&name=900x900)
 </details>
 
 
