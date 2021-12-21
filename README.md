@@ -73,7 +73,7 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 - [log4j-resources](https://gitlab.com/gitlab-de/log4j-resources) - Resources and guides collected by GitLab's Developer Evangelism team.
 - [How Traefik Plugins Protect Your Apps Against the Log4j Vulnerability](https://traefik.io/blog/how-traefik-plugins-protect-your-apps-against-the-log4j-vulnerability/) - How Traefik Plugins Protect Your Apps Against the Log4j Vulnerability.
 - [Google Cloud recommendations for investigating and responding to the Apache “Log4j 2” vulnerability](https://cloud.google.com/blog/products/identity-security/recommendations-for-apache-log4j2-vulnerability) - Google Cloud recommendations for Detection and Remediation of the Log4Shell vulnerability.
-- [Security Vulnerability in Minecraft: Java Edition](https://help.minecraft.net/hc/en-us/articles/4416199399693-Security-Vulnerability-in-Minecraft-Java-Edition)
+- [Security Vulnerability in Minecraft: Java Edition](https://help.minecraft.net/hc/en-us/articles/4416199399693-Security-Vulnerability-in-Minecraft-Java-Edition) - Remediation for Java minecraft servers affected by log4j
 
 ## Twitter Discussions
 - [Log4Shell spreadsheet](https://twitter.com/GossiTheDog/status/1470056396968374273?s=20) - Spreadsheet for defenders listing vendors and products.
