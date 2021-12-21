@@ -69,6 +69,13 @@ An Awesome List of all Log4Shell memes
 ![log4j toaster](https://media-exp1.licdn.com/dms/image/C4E22AQFFGAmYVkNK6w/feedshare-shrink_1280/0/1639556460600?e=1642636800&v=beta&t=SrUqAxc5HHrwcCC2Rljy0c76LA2AHJQeOxxBFN9Zh_Y)
 </details>
 
+<details>
+  <summary>are you two friends?</summary>
+  
+![are you two friends?](https://pbs.twimg.com/media/FHETJ5BVIAchEJi?format=jpg&name=900x900)
+</details>
+
+
 ## Dedicated web pages 
 
 - [log4jmemes.com](https://log4jmemes.com/) 
