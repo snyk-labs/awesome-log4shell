@@ -76,6 +76,13 @@ An Awesome List of all Log4Shell memes
 ![billions in enterprise security](https://pbs.twimg.com/media/FG4wlhCWQAAiZbH?format=jpg&name=900x900)
 </details>
 
+<details>
+  <summary>are you two friends?</summary>
+  
+![are you two friends?](https://pbs.twimg.com/media/FHETJ5BVIAchEJi?format=jpg&name=900x900)
+</details>
+
+
 ## Dedicated web pages 
 
 - [log4jmemes.com](https://log4jmemes.com/) 
