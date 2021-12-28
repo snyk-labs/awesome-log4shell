@@ -29,6 +29,7 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 - [Understanding Log4Shell: vulnerability, attacks and mitigations](https://www.slideshare.net/BertJanSchrijver/understanding-log4shell-vulnerability-attacks-and-mitigations-250846006/) - Slide deck for webcast (see under [videos](#Videos)) by Roy van Rijn & Bert Jan Schrijver (OpenValue).
 - [MOGWAI LABS vulnerability notes: Log4Shell](https://mogwailabs.de/en/blog/2021/12/vulnerability-notes-log4shell/) - General explanation of Log4Shell (CVE-2021-44228).
 - [Log4j Vulnerability – Things You Should Know](https://redhuntlabs.com/blog/log4j-vulnerability-things-you-should-know.html) - Redhunt Labs coverage around log4shell: Explanation, detection and remediation. Along with tool for mass scanning targets.
+- [TL;DR: Log4j Vulnerability](https://www.tldr.engineering/tldr-log4j-vulnerability/) - Bite sized technical summary of the vulnerability.
 
 ## Videos
 - [CVE-2021-44228 - Log4j - MINECRAFT VULNERABLE! (and SO MUCH MORE)](https://www.youtube.com/watch?v=7qoPDq41xhQ) - John Hammond, Cybersecurity Researcher @HuntressLabs.
