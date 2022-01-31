@@ -66,7 +66,7 @@ An Awesome List of all Log4Shell memes
 <details>
   <summary>log4j on your toaster</summary>
   
-![log4j toaster](https://media-exp1.licdn.com/dms/image/C4E22AQFFGAmYVkNK6w/feedshare-shrink_1280/0/1639556460600?e=1642636800&v=beta&t=SrUqAxc5HHrwcCC2Rljy0c76LA2AHJQeOxxBFN9Zh_Y)
+![log4j toaster](https://dl.airtable.com/.attachments/c438cce2c28cd02f4a72fb5d09d0bf56/9a150b9b/ImagefromiOS.jpg)
 </details>
 
 
