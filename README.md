@@ -76,6 +76,12 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 - [Google Cloud recommendations for investigating and responding to the Apache “Log4j 2” vulnerability](https://cloud.google.com/blog/products/identity-security/recommendations-for-apache-log4j2-vulnerability) - Google Cloud recommendations for Detection and Remediation of the Log4Shell vulnerability.
 - [Security Vulnerability in Minecraft: Java Edition](https://help.minecraft.net/hc/en-us/articles/4416199399693-Security-Vulnerability-in-Minecraft-Java-Edition) - Remediation for Java minecraft servers affected by log4j
 
+## Articles
+- [Log4Shell: Redefining Painful Disclosure](https://jerichoattrition.wordpress.com/2022/01/05/log4shell-redefining-painful-disclosure/)
+- [The Gift of It's Your Problem Now](https://apenwarr.ca/log/20211229)
+- [Discoveries as a Result of the Log4j Debacle](https://shehackspurple.ca/2021/12/23/discoveries-as-a-result-of-the-log4j-debacle/)
+- [LOG4J / LOG4SHELL (PART 1): MISCONCEPTIONS](https://appsecphoenix.com/log4j-log4shell-part-1-misconceptions/)
+
 ## Twitter Discussions
 - [Log4Shell spreadsheet](https://twitter.com/GossiTheDog/status/1470056396968374273?s=20) - Spreadsheet for defenders listing vendors and products.
 - [Incredible discussion around Log4j](https://twitter.com/kurtseifried/status/1469345530182455296) - Best list of vulnerable software, services and patches
