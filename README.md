@@ -9,6 +9,7 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 - [Videos](#videos)
 - [Vulnerable Software](#vulnerable-software)
 - [Detection & Remediation](#detection--remediation)
+- [Articles](#articles)
 - [Twitter Discussions](#twitter-discussions)
 - [Examples & Proofs of Concept](#examples--proofs-of-concept)
 - [Memes](#memes)
