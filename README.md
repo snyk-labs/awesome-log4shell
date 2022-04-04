@@ -94,6 +94,8 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 - [Various Log4Shell PoC](https://attackerkb.com/topics/in9sPR2Bzt/cve-2021-44228-log4shell/rapid7-analysis) - Analysis of various products with curl-based proof of concepts. Includes Struts2, Solr, VSphere, Druid, James, and more.
 - [Gamifying Log4j Vulnerability](https://application.security/free-application-security-training/understanding-apache-log4j-vulnerability) - Exploit Log4J in example code.
 - [CVE-2021-44228 log4j Exploitation in Action: RCE reverse shell on AWS cloud](https://www.youtube.com/watch?v=dguVlEpPFgg) - Log4Shell exploitation with RCE reverse shell on AWS Cloud.
+- [Analysis](https://github.com/righettod/log4shell-analysis) of the Log4Shell vulnerability in addition to protection codes and unit tests.
+- [Tool](https://github.com/righettod/log4shell-payload-grabber) to retrieve the payload from a server delivering Log4Shell payloads.
 
 ## Memes
 - [Log4J memes](https://github.com/snyk-labs/awesome-log4shell/blob/main/memes.md) - Sometimes we still need a smile. 
